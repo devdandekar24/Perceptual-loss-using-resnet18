@@ -1,0 +1,4 @@
+Epoch 5: Per-pixel Accuracy = 0.40318
+Epoch 10: Per-pixel Accuracy = 0.44876
+Epoch 15: Per-pixel Accuracy = 0.42329
+Epoch 20: Per-pixel Accuracy = 0.49164
